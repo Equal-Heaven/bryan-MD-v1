@@ -41,8 +41,8 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = ' https://instagram.com/luffy.koko' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
+global.sig = ' https://instagram.com/b_r_y_a_n.x' //Link Instagrammu
+global.sgh = 'https://github.com/Equal-Heaven' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/Dm9A0p3YSKrEWOAR5bINPa'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
@@ -55,8 +55,8 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 /*============== NOMOR ==============*/
 global.nomorbot = '242057542390' //Nomor Bot
 global.nomorown = '242068312525','242064064148' //Nomor Owner
-global.namebot = 'ANONYMOUS-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.namebot = '꧁༒ ⚛⚠ ☠ ̶̶𝘼̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙔̶̺̋ ̶̶̶̏̎𝙈̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙐̶̺̋ ̶̶̶̏̎𝙎̶̺̋ ̶̏̎ ☠ ⚠⚛༒ ꧂' //Nama Bot
+global.nameown = 'BRYAN' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -66,11 +66,11 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 /*============== STAFF ==============*/
 global.owner = [
   ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['242068312525', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
-global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
+global.mods = ['923470027813','242068312525'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['242067512708','242064064148'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
@@ -105,16 +105,16 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
+global.wm = '「 ꧁༒ ⚛⚠ ☠ ̶̶𝘼̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙔̶̺̋ ̶̶̶̏̎𝙈̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙐̶̺̋ ̶̶̶̏̎𝙎̶̺̋ ̶̏̎ ☠ ⚠⚛༒ ꧂」' //Main Watermark
+global.wm2 = '⚠ ☠ ̶̶𝘼̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙔̶̺̋ ̶̶̶̏̎𝙈̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙐̶̺̋ ̶̶̶̏̎𝙎̶̺̋ ̶̏̎ ☠ ⚠'
+global.wm3 = '𝘼̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙔̶̺̋ ̶̶̶̏̎𝙈̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙐̶̺̋ ̶̶̶̏̎𝙎̶̺̋'
+global.footerTXT = `「 ꧁༒ ⚛⚠ ☠ ̶̶𝘼̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙉̶̺̋ ̶̶̶̏̎𝙔̶̺̋ ̶̶̶̏̎𝙈̶̺̋ ̶̶̶̏̎𝙊̶̺̋ ̶̶̶̏̎𝙐̶̺̋ ̶̶̶̏̎𝙎̶̺̋ ̶̏̎ ☠ ⚠⚛༒ ꧂」 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +242 06 8312525`
+global.fig = `Follow me on instagram:\n\t\instagram.com/b_r_y_a_n.x/`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ 𝗕𝗥𝗬𝗔𝗡 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://imgur.com/a/JLxUTwQ'
 
 
 
@@ -124,7 +124,7 @@ global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
 global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.hwaifu = ['https://imgur.com/a/JLxUTwQ']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+242068312525'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -180,10 +180,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickpack = 'BRYAN DEV'
+global.stickauth = `「𝗕𝗥𝗬𝗔𝗡𝗕𝗚 」`
+global.packname = 'ᗰᗩᗪᗴ ᗷY'
+global.packname2 = 'ᗰᗩᗪᗴ ᗷY 𝗕𝗥𝗬𝗔𝗡𝗕𝗚'
 
 global.multiplier = 38 // The higher, The harder levelup
 
